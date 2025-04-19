@@ -13,6 +13,12 @@ Steps to use this project
 3. For blk_mem_gen_0 use your audio.coe file and blk_mem_gen_1 use your weights.coe
 4. Generate the bitstream and you are good to go!!
 
+
+## Slides
+
+https://docs.google.com/presentation/d/129ItnDh2RpUjsJ92TJXqQOOkePtmd67_uiepENo6t7Q/edit?usp=sharing
+
+
 ## Project Video 
 Checkout our video to know more... 
 
